@@ -1,0 +1,44 @@
+{
+  "development": {
+    "username": "root",
+    "password": "1234",
+    "database": "english_learning",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "define": {
+      "charset": "utf8mb4",
+      "collate": "utf8mb4_unicode_ci"
+    },
+    "dialectOptions": {
+      "charset": "utf8mb4"
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": "1234",
+    "database": "english_learning_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "define": {
+      "charset": "utf8mb4",
+      "collate": "utf8mb4_unicode_ci"
+    },
+    "dialectOptions": {
+      "charset": "utf8mb4"
+    }
+  },
+  "production": {
+    "username": "root",
+    "password": "1234",
+    "database": "english_learning_prod",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "define": {
+      "charset": "utf8mb4",
+      "collate": "utf8mb4_unicode_ci"
+    },
+    "dialectOptions": {
+      "charset": "utf8mb4"
+    }
+  }
+} 
